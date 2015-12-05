@@ -1,0 +1,14 @@
+Itr Deepening Search:
+Execution Time: 0.0804769381567
+Nodes Expanded: 106
+Trace: [(2, 3), (2, 5), (4, 3), (2, 3), (2, 2), (2, 4), (2, 5), (2, 3), (1, 3), (3, 3)]
+
+Astar One Search:
+Execution Time: 0.0172872999505
+Nodes Expanded: 20
+Trace: [(2, 3), (2, 5), (4, 3), (2, 3), (2, 2), (2, 4), (2, 5), (2, 3), (1, 3), (3, 3)]
+
+Astar Two Search:
+Execution Time: 0.0307351697862
+Nodes Expanded: 32
+Trace: [(2, 3), (2, 5), (4, 3), (2, 3), (2, 2), (2, 4), (2, 5), (2, 3), (1, 3), (3, 3)]
